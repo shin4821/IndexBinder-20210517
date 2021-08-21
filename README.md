@@ -59,7 +59,7 @@
 -------------
 * 퀴즈단어장 메인화면
 
-![11](https://user-images.githubusercontent.com/63482037/130324639-3ae0147b-e6ca-492f-b9dc-f0684395233f.PNG)
+![11111111](https://user-images.githubusercontent.com/63482037/130324747-bd9d6a19-4ac7-4674-a3e4-ef8e760e7f07.PNG)
 
 
 * 퀴즈단어장 찾기화면
